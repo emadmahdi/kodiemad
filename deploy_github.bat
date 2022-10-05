@@ -1,9 +1,7 @@
 
 cd C:\DEVS\github_kodiemad
 
-call git add .
-call git commit -m "commit from cli"
-call git push -u origin main
+git add . && git commit -m "commit from cli" && git push -u origin main
 
 
 
